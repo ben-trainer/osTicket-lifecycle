@@ -8,36 +8,56 @@
 In this lab I go through the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Lifecycle Stages</h2>
-
+Now we will begin with our ticketing life cycle. First we must create our tickets which can be done by visiting the “localhost/osTicket/index” on our web browser. Select open ticket and fill out the request.
 <p>
-<img src="https://i.imgur.com/kTlhwFo.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/RlHNrkW.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/ApsciFm.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/HC8kKV0.png" height="80%" width="80%" alt="Ticket Steps"/>
+
+Once we have created our sample tickets they will appear in our tickets tab within our admin panel. Here I created a variety of tickets which need to be categorized based on priority and assign them to the correct professional.
+
+<img src="https://i.imgur.com/GDQ6vLa.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
-In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
+Jane Doe (me) worked the ticket and assigned it to the System Administrator department, also setting the SLA level, and adjusted the Priority Level. The customers are also able to select the Help Topic to help the IT professionals categorize tickets better.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/gtw5Nok.png" height="80%" width="80%" alt="Ticket Steps"/>
+
+This is what the ticket looks like on the System Administrator’s side, logged in as Benjamin Bravo.
+  
+<img src="https://i.imgur.com/cACxLCP.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
-From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
+Here I resolve the issue, closing the ticket, and you can see the updated ticket here.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/pU3kh02.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/j29yfjo.png" height="80%" width="80%" alt="Ticket Steps"/>
+
+Jane Doe (me) was able to work the ticket and assign it to herself, resolving the issue promptly.
+
+<img src="https://i.imgur.com/H0vCre3.png" height="80%" width="80%" alt="Ticket Steps"/>
+
+Jane Doe (me) reached out to John with a warm hand off. Now John Doe (me) received the ticket directly into his ticket queue. Where John Doe (me) was able to resolve it promptly.
+
+<img src="https://i.imgur.com/Tfk912Y.png" height="80%" width="80%" alt="Ticket Steps"/>
+
+The tickets have all been worked and here is the result from my view on the Agent Panel.
+
+<img src="https://i.imgur.com/0t58zTx.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
-When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
+
+
 </p>
 <br />
 
 <h2>Lessons Learned</h2>
 
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+I learned of the use of SLAs in help desk positions, which can change the priority of a ticket, outside of its own categorized priority to uphold a specific company’s quotas. Building out a database like this from scratch helped me understand how valuable documentation is within a helpdesk environment regarding departments and who to assign tickets to. Ensuring concise clear communication between each other.
+
+Strong communication is critical while resolving tickets, being clear and concise go a long way for you coworkers and customers. Tickets are coming in with very different or similar issues and should be assigned to the appropriate person or team. Jane was able to manage and resolve a ticket on her own quickly without the need to have John resolve it, lightening the load on John. This also shows the importance of documentation as the ticket was able to be resolved and another agent wouldn't accidentally work a ticket that is already done. The documentation can also be later used to fix the problem in the future, ensuring smoother operations within the company.
