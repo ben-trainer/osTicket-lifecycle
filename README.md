@@ -5,7 +5,7 @@
 </p>
 
 <h1>Resolving Tickets in osTicket</h1>
-In this lab I go through the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+In this lab I go through the lifecycle of a ticket from the intake to resolution within the open-source help desk ticketing system osTicket. We will be creating and managing our own tickets for the purpose of demonstration. <br />
 
 <h2>Lifecycle Stages</h2>
 Now we will begin with our ticketing life cycle. First we must create our tickets which can be done by visiting the “localhost/osTicket/index” on our web browser. Select open ticket and fill out the request.
