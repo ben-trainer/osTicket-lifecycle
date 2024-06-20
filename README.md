@@ -55,7 +55,8 @@ First we must create our tickets which can be done by visiting the “localhost/
 <p>
 <img src="https://i.imgur.com/HC8kKV0.png" height="80%" width="80%" alt="Ticket Steps"/>
 
-
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 
 Once we have created our sample tickets they will appear in our tickets tab within our admin panel. Here I created a variety of tickets which need to be categorized based on priority and assign them to the correct professional.
 
@@ -63,6 +64,8 @@ Once we have created our sample tickets they will appear in our tickets tab with
 
 <img src="https://i.imgur.com/GDQ6vLa.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 <p>
 Jane Doe worked the ticket and assigned it to the System Administrator department, also setting the SLA level, and adjusted the Priority Level. The customers are also able to select the Help Topic to help the IT professionals categorize tickets better.
 
@@ -71,12 +74,15 @@ Jane Doe worked the ticket and assigned it to the System Administrator departmen
 
 <p>
 <img src="https://i.imgur.com/gtw5Nok.png" height="80%" width="80%" alt="Ticket Steps"/>
-
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 This is what the ticket looks like on the System Administrator’s side, logged in as Benjamin Bravo.
   
 <img src="https://i.imgur.com/cACxLCP.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 Here I resolve the issue, closing the ticket, and you can see the updated ticket here.
 
 </p>
@@ -84,15 +90,18 @@ Here I resolve the issue, closing the ticket, and you can see the updated ticket
 
 <p>
 <img src="https://i.imgur.com/j29yfjo.png" height="80%" width="80%" alt="Ticket Steps"/>
-
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 Jane Doe was able to work the ticket and assign it to herself, resolving the issue promptly.
 
 <img src="https://i.imgur.com/H0vCre3.png" height="80%" width="80%" alt="Ticket Steps"/>
-
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 Jane Doe reached out to John with a warm hand off. Now John Doe (me) received the ticket directly into his ticket queue. Where John Doe (me) was able to resolve it promptly.
 
 <img src="https://i.imgur.com/Tfk912Y.png" height="80%" width="80%" alt="Ticket Steps"/>
-
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
 
 The result from the agent's on the Agent Panel.
 
